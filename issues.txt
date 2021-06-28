@@ -13,3 +13,4 @@ Warning: Permanently added 'github.com' (RSA) to the list of known hosts.
 Enter passphrase for key '/c/Users/Shubham/.ssh/id_rsa':
 
 3. trying to resolve the above problem using running ssh agent manually.
+nothing changed... i was still prompted to enter the passphrase
