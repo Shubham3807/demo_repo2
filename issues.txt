@@ -11,3 +11,5 @@ Warning: Permanently added 'github.com' (RSA) to the list of known hosts.
 
 2. why I was prompted to enter the passphrase despite i have informed ssh agent about my private ssh key?
 Enter passphrase for key '/c/Users/Shubham/.ssh/id_rsa':
+
+3. trying to resolve the above problem using running ssh agent manually.
