@@ -1,0 +1,13 @@
+issues noticed during push command
+
+1. what was the menaing of this despite i have followed the procedure of ssh keys authentication??
+
+The authenticity of host 'github.com (13.234.176.102)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+Please type 'yes', 'no' or the fingerprint: SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
+Warning: Permanently added 'github.com' (RSA) to the list of known hosts.
+
+2. why I was prompted to enter the passphrase despite i have informed ssh agent about my private ssh key?
+Enter passphrase for key '/c/Users/Shubham/.ssh/id_rsa':
